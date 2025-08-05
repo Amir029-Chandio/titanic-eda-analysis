@@ -1,0 +1,45 @@
+# Titanic EDA Analysis 🛳️
+
+## 📌 Project 3: Exploratory Data Analysis on Titanic Dataset
+
+### 📄 Description:
+This project performs Exploratory Data Analysis (EDA) on the Titanic dataset. It focuses on:
+- Handling missing values
+- Understanding feature distributions
+- Analyzing relationships between features and survival
+
+### 💡 Skills Used:
+- Data Wrangling with Pandas
+- Data Visualization with Matplotlib & Seaborn
+- Basic Statistics & Correlation Analysis
+
+### 📊 Key Techniques:
+- Histograms, Countplots, Boxplots
+- Correlation Heatmaps
+- GroupBy Analysis
+- Missing Value Handling
+
+### 📁 Dataset:
+Titanic dataset from Kaggle or seaborn's built-in dataset.
+
+### 📎 Tools:
+- Python
+- Jupyter Notebook / Google Colab
+- Pandas
+- Matplotlib
+- Seaborn
+
+### 🚀 How to Run:
+1. Clone the repo
+2. Open the notebook in Jupyter or Colab
+3. Run the cells step by step
+
+### 📌 Google Colab Link:
+[Open in Google Colab](https://colab.research.google.com/)
+
+### 📸 Sample Output:
+- Correlation heatmap
+- Survival distribution by gender/class
+- Boxplots showing age vs survival
+
+
